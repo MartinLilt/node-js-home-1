@@ -7,7 +7,7 @@
 node index.js --action list
 ```
 
-[--action list](https://github.com/MartinLilt/readme-template/blob/main/nodejs/screenshot_1.png)
+[--action list](./picture/screenshot_1.png)
 
 ## Шаг 2
 
@@ -16,7 +16,7 @@ node index.js --action list
 node index.js --action get --id 5
 ```
 
-[--action get](https://github.com/MartinLilt/readme-template/blob/main/nodejs/screenshot_2.png)
+[--action get](./picture/screenshot_2.png)
 
 ## Шаг 3
 
@@ -25,7 +25,7 @@ node index.js --action get --id 5
 node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
 ```
 
-[--action add](https://github.com/MartinLilt/readme-template/blob/main/nodejs/screenshot_3.png)
+[--action add](./picture/screenshot_3.png)
 
 ## Шаг 4
 
@@ -34,4 +34,4 @@ node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-2
 node index.js --action remove --id=1
 ```
 
-[--action remove](https://github.com/MartinLilt/readme-template/blob/main/nodejs/screenshot_4.png)
+[--action remove](./picture/screenshot_4.png)

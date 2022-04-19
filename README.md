@@ -7,7 +7,7 @@
 node index.js --action list
 ```
 
-![alt text](https://monosnap.com/file/RvYAUyHCLwOD9qt3qEmHNsZ39bnVLY)
+[--action list](https://github.com/MartinLilt/readme-template/blob/main/nodejs/screenshot_1.png)
 
 ## Шаг 2
 
@@ -16,7 +16,7 @@ node index.js --action list
 node index.js --action get --id 5
 ```
 
-![alt text](https://monosnap.com/file/AaVxvrQCyIRcuKLEzSFIut9FfNAwgi)
+[--action get](https://github.com/MartinLilt/readme-template/blob/main/nodejs/screenshot_2.png)
 
 ## Шаг 3
 
@@ -25,7 +25,7 @@ node index.js --action get --id 5
 node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
 ```
 
-![alt text](https://monosnap.com/file/mai9Q1iV1Ti0YwQPqvadOH4TrntBlR)
+[--action add](https://github.com/MartinLilt/readme-template/blob/main/nodejs/screenshot_3.png)
 
 ## Шаг 4
 
@@ -34,4 +34,4 @@ node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-2
 node index.js --action remove --id=1
 ```
 
-![alt text](https://monosnap.com/file/ZWitn54pRpwdowQtlKJ12Jav5soIZt)
+[--action remove](https://github.com/MartinLilt/readme-template/blob/main/nodejs/screenshot_4.png)
